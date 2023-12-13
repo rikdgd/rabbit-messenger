@@ -48,6 +48,7 @@ public class Messenger : IMessenger, IDisposable
             try 
             {
                 ConnectToRabbitMQ(autoDeclare, isConsumer);
+                connected = true;
             }
             catch (Exception ex)
             {

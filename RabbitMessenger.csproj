@@ -2,7 +2,7 @@
 
   <PropertyGroup>
     <PackageId>RabbitMessenger</PackageId>
-    <Version>0.2.2</Version>
+    <Version>0.2.3</Version>
     <Authors>Rik de Goede</Authors>
     <Description>A small package to make sending and handling messages with RabbitMQ easier.</Description>
     
